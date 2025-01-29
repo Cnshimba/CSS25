@@ -70,7 +70,7 @@ def main():
     st.sidebar.markdown("**ORCID:** [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)")
     st.sidebar.markdown("**Email:** nshimba@gmail.com")
     st.sidebar.slider('**Rate my page**', 0, 100)
-    st.sidebar.button('Submit Rating')
+    st.sidebar.button('Submit')
 
 if __name__ == "__main__":
     main()
